@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## To je spletna stran za vse ljubitelje hribov, psihologije, učenja,...in še česa ;)
 
 You can use the [editor on GitHub](https://github.com/gmedve/hribolazka/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
